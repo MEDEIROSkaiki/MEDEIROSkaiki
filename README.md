@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Sou um estudaNTE do SENAI apaixonado por desenvolvimento de software. Atualmente, estou focado em analise e desemvolvimento de sistemas. Adoro aprender novas tecnologias e enfrentar desafios complexos.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MEDEIROSkaiki&layout=donut)](https://github.com/MEDEIROSkaiki/github-readme-stats)
+
 
 
  <a href="https://www.linkedin.com/in/kaike-medeiros-391092266" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
