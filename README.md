@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MEDEIROSkaiki&layout=donut)](https://github.com/MEDEIROSkaiki/github-readme-stats)
+
+ <a href="https://www.www.linkedin.com/in/kaike-medeiros-391092266" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
